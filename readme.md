@@ -1,0 +1,2 @@
+- `src/main/java/Lab1/myLibrary.java` - Utility class with power and factorial methods
+- `src/main/java/Lab1/mainApp1.java` - Main application class
